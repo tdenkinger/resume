@@ -88,31 +88,6 @@ The Music Now division of AOL was a subscription-centric music service providing
 
 * I designed all data structures for all database-centric projects I worked on.  I understand relational database concepts and am familiar with standard DDL used to build and manage relational databases.
 
-
-### NovaMed Eyecare, Inc *  March 1999 to January 2000
-Des Plaines, IL  
-Senior Internet Developer
-
-NovaMed is a medical practice management company operating optometric practices nationwide specializing in LASIK eye surgery.
-
-### Neology Information Design/Smith Bucklin & Associates * June 1998 to March 1999
-Chicago, IL  
-Internet Developer
-
-Neology was an internal consulting group within Smith Bucklin providing internet application development to their trade and technical associations clients.
-
-### Cruise Technologies * March 1997 to June 1998
-Arlington Heights, IL  
-IT Systems Engineer/Founder
-
-Cruise was a hardware development startup creating LAN-based mobile tablet computers.
-
-### Packard Bell NEC * April 1996 to March 1997
-Sacramento, CA  
-Programmer/Analyst – Technical Lead
-
-Packard Bell NEC was a leading manufacturer of consumer PC products.
-
 ## Educational Background
 
 Loyola University * Chicago, IL * Graduate Studies, Philosophy
