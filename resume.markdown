@@ -4,12 +4,10 @@ Chicago, IL 60707
 773.218.9544
 troy@denkinger.us
 
----
-
 ## Professional Experience
 
-**Sony Music Entertainment * October 2010 to Present**
-Chicago, IL & New York, NY
+### Sony Music Entertainment * October 2010 to Present  
+Chicago, IL & New York, NY  
 Director of Software Development
 
 With the successful launch of the Ariama classical music store, I joined Sony Music as a permanent employee.  My position has been both as a direct manager of developers and as a project manager on various projects within the Sony Music Direct-to-Consumer group.
@@ -24,8 +22,8 @@ With the successful launch of the Ariama classical music store, I joined Sony Mu
 
 * “The X Factor USA”.  The Direct-to-Consumer group has begun soliciting clients outside the Sony Music corporate sphere.  One recent client we took on was Fox Television’s talent show “The X Factor USA.”  I ran this project for the 5 months prior to the program’s airing and for the 3 month period it ran live on the air.  I managed both the mobile and website software development.  My involvement was very hands-on with co-located and remote development teams.  I worked with Sony and Fox product teams to define new features, turned those into actionable user stories, and monitored the progress on those stories closely.  We successfully completed this project in December 2011.
 
-**Independent Consultant * February 2009 to October 2010**
-Chicago, IL
+### Independent Consultant * February 2009 to October 2010
+Chicago, IL  
 Development and Project Management Consulting
 
 With the closure of TotalMusic, I began working on independent consulting projects primarily associated with the digital music space.  My duties on these projects have encompassed system architecture, software development, project management, and business analysis.
@@ -37,8 +35,8 @@ With the closure of TotalMusic, I began working on independent consulting projec
 * As a content management system expert, I consulted with LimeWire LLC in their due diligence process considering the purchase of one of their competitors.
 
 
-**TotalMusic LLC * February 2008 to February 2009**
-Herndon, VA
+### TotalMusic LLC * February 2008 to February 2009
+Herndon, VA  
 Director of Software Engineering
 
 
@@ -56,10 +54,9 @@ TotalMusic was an API-based music platform providing music file delivery, user-g
 
 * Managing the team included doing annual reviews, negotiating salaries, holding weekly one-on-one meetings, mentoring junior engineers, and participating in decisions on staff reductions.
 
-**Independent Online Digital Alliance (IODA) * May 2007 to February 2008**
-San Francisco, CA
+### Independent Online Digital Alliance (IODA) * May 2007 to February 2008
+San Francisco, CA  
 Software Engineering Manager
-
 
 IODA is a digital media company providing content distribution and accounting services to independent record labels.  They encode and deliver digital music and video to all major online music services, including iTunes, eMusic, and Rhapsody.
 
@@ -73,8 +70,8 @@ IODA is a digital media company providing content distribution and accounting se
 
 * Laid out design goals promising increased operational efficiency, allowing the company to increase content throughput without adding staff.  Many of the deployed systems are labor intensive or overwhelmed by the amount of content flowing through them.  I worked with the engineering staff to identify areas where these systems could be refactored and improved.
 
-**AOL Music Now (formerly FullAudio/MusicNow) * January 2000 to April 2007**
-Chicago, IL
+### AOL Music Now (formerly FullAudio/MusicNow) * January 2000 to April 2007
+Chicago, IL  
 Manager Of Music Service Development
 
 The Music Now division of AOL was a subscription-centric music service providing over three million music tracks to our  500,000 paying subscribers.  Our service also had a purchase component, much like Apple iTunes, which allowed our two million shopper members to purchase music and videos.
@@ -92,26 +89,26 @@ The Music Now division of AOL was a subscription-centric music service providing
 * I designed all data structures for all database-centric projects I worked on.  I understand relational database concepts and am familiar with standard DDL used to build and manage relational databases.
 
 
-**NovaMed Eyecare, Inc *  March 1999 to January 2000**
-Des Plaines, IL
+### NovaMed Eyecare, Inc *  March 1999 to January 2000
+Des Plaines, IL  
 Senior Internet Developer
 
 NovaMed is a medical practice management company operating optometric practices nationwide specializing in LASIK eye surgery.
 
-**Neology Information Design/Smith Bucklin & Associates * June 1998 to March 1999**
-Chicago, IL
+### Neology Information Design/Smith Bucklin & Associates * June 1998 to March 1999
+Chicago, IL  
 Internet Developer
 
 Neology was an internal consulting group within Smith Bucklin providing internet application development to their trade and technical associations clients.
 
-**Cruise Technologies * March 1997 to June 1998**
-Arlington Heights, IL
+### Cruise Technologies * March 1997 to June 1998
+Arlington Heights, IL  
 IT Systems Engineer/Founder
 
 Cruise was a hardware development startup creating LAN-based mobile tablet computers.
 
-**Packard Bell NEC * April 1996 to March 1997**
-Sacramento, CA
+### Packard Bell NEC * April 1996 to March 1997
+Sacramento, CA  
 Programmer/Analyst – Technical Lead
 
 Packard Bell NEC was a leading manufacturer of consumer PC products.
