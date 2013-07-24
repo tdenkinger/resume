@@ -1,14 +1,15 @@
-﻿Troy Denkinger
-1908 N. Oak Park Avenue
-Chicago, IL 60707
-773.218.9544
-troy@denkinger.us
+﻿# Troy Denkinger
+525 Clinton Avenue, #8S  
+Brooklyn, NY 11238  
+phone: 773.218.9544  
+email: troy@denkinger.us  
+blog: [denkinger.us](http://denkinger.us)  
+github: [github.com/tdenkinger](https://github.com/tdenkinger)  
 
 ## Professional Experience
 
-### Sony Music Entertainment * October 2010 to Present  
-Chicago, IL & New York, NY  
-Director of Software Development
+### Sony Music Entertainment * October 2010 to Present
+**Director of Software Development**  * Chicago, IL & New York, NY  
 
 With the successful launch of the Ariama classical music store, I joined Sony Music as a permanent employee.  My position has been both as a direct manager of developers and as a project manager on various projects within the Sony Music Direct-to-Consumer group.
 
@@ -23,8 +24,7 @@ With the successful launch of the Ariama classical music store, I joined Sony Mu
 * “The X Factor USA”.  The Direct-to-Consumer group has begun soliciting clients outside the Sony Music corporate sphere.  One recent client we took on was Fox Television’s talent show “The X Factor USA.”  I ran this project for the 5 months prior to the program’s airing and for the 3 month period it ran live on the air.  I managed both the mobile and website software development.  My involvement was very hands-on with co-located and remote development teams.  I worked with Sony and Fox product teams to define new features, turned those into actionable user stories, and monitored the progress on those stories closely.  We successfully completed this project in December 2011.
 
 ### Independent Consultant * February 2009 to October 2010
-Chicago, IL  
-Development and Project Management Consulting
+**Development and Project Management Consulting** * Chicago, IL  
 
 With the closure of TotalMusic, I began working on independent consulting projects primarily associated with the digital music space.  My duties on these projects have encompassed system architecture, software development, project management, and business analysis.
 
@@ -36,9 +36,7 @@ With the closure of TotalMusic, I began working on independent consulting projec
 
 
 ### TotalMusic LLC * February 2008 to February 2009
-Herndon, VA  
-Director of Software Engineering
-
+**Director of Software Engineering** * Herndon, VA
 
 TotalMusic was an API-based music platform providing music file delivery, user-generated content storage and sharing, and a music download store.
 
@@ -55,8 +53,7 @@ TotalMusic was an API-based music platform providing music file delivery, user-g
 * Managing the team included doing annual reviews, negotiating salaries, holding weekly one-on-one meetings, mentoring junior engineers, and participating in decisions on staff reductions.
 
 ### Independent Online Digital Alliance (IODA) * May 2007 to February 2008
-San Francisco, CA  
-Software Engineering Manager
+**Software Engineering Manager** * San Francisco, CA  
 
 IODA is a digital media company providing content distribution and accounting services to independent record labels.  They encode and deliver digital music and video to all major online music services, including iTunes, eMusic, and Rhapsody.
 
@@ -71,8 +68,7 @@ IODA is a digital media company providing content distribution and accounting se
 * Laid out design goals promising increased operational efficiency, allowing the company to increase content throughput without adding staff.  Many of the deployed systems are labor intensive or overwhelmed by the amount of content flowing through them.  I worked with the engineering staff to identify areas where these systems could be refactored and improved.
 
 ### AOL Music Now (formerly FullAudio/MusicNow) * January 2000 to April 2007
-Chicago, IL  
-Manager Of Music Service Development
+**Manager Of Music Service Development** * Chicago, IL  
 
 The Music Now division of AOL was a subscription-centric music service providing over three million music tracks to our  500,000 paying subscribers.  Our service also had a purchase component, much like Apple iTunes, which allowed our two million shopper members to purchase music and videos.
 
@@ -90,9 +86,10 @@ The Music Now division of AOL was a subscription-centric music service providing
 
 ## Educational Background
 
-Loyola University * Chicago, IL * Graduate Studies, Philosophy
+Loyola University * Chicago, IL * Graduate Studies, Philosophy  
 University of Northern Iowa * Cedar Falls, IA.  * BA, Philosophy
 
-## Certifications
+## Grab Bag
 
-[Certified Scrum Master](http://www.scrumalliance.org/profiles/14331-troy-denkinger)
+* I am a [Certified Scrum Master](http://www.scrumalliance.org/profiles/14331-troy-denkinger).  
+* I believe in diversity in tech, so I volunteer with [NYC Railsbridge](http://railsbridgenyc.org).
