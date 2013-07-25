@@ -6,20 +6,31 @@ email: troy@denkinger.us
 blog: [denkinger.us](http://denkinger.us)  
 github: [github.com/tdenkinger](https://github.com/tdenkinger)  
 
+## About Me 
+
+* I believe in diversity in tech, so I volunteer with [Railsbridge NYC](http://railsbridgenyc.org).  
+* Some books that have influenced me: _Lean From The Trenches_ by Henrik Kniberg, _Practical Object-Oriented Design In Ruby_ by Sandi Metz, and _The Hitchhiker's Guide To The Galaxy_ by Douglas Adams &mdash; naturally.  
+* I'm a [Certified Scrum Master](http://www.scrumalliance.org/profiles/14331-troy-denkinger).  
+* While I did study philosophy, please don't talk Plato with me as I'm sure I have forgotten most of it.  
+
 ## Professional Experience
 
 ### _relentless_GENERATOR (SonyDADC New Media Services) * October 2010 to Present
 **Senior Director of Software Development**  * Chicago, IL & New York, NY  
 
-With the successful launch of the Ariama classical music store, I joined Sony as a permanent employee.  My position has been both as a direct manager of developers and as a project manager on various projects within the group.
+With the successful launch of the Ariama classical music store for Sony Music, I joined Sony as a permanent employee. My duties straddle both tactical and strategic concerns. I work directly with developers on systems design, and even write some code. I'm also responsible for more strategic issues such as maintenance of product roadmaps in accordance with company goals and identification of projects eligible for capitalization.
 
-* Marketing Platform Engineering.  I manage a team of five engineers, a product manager and a project manager tasked with building and maintaining the codebase on which all Sony and many non-Sony recording artists’ sites are built.  This platform runs on a customized Drupal CMS system.  My responsibilities include participating in pre-pitch meetings to be sure what we are presenting is both possible and cost effective, working with product management to document client desires and turn those into actionable user stories for the engineering team, helping the project manager determine priority, facilitating accurate estimation by the team, and removing any impediments to the smooth flow of the development process.
-
-* Commerce Platform Engineering. The four engineers on this team, along with a product manager and a project manager, are responsible for maintaining the undelrying ecommerce architecture for over 500 stores. All Sony Music and many non-Sony artist sell digital and physical products through this platform. Further, we have integrated with external services such as Ultraviolet for the sale of digital movies and Crowdsurge for the sale of event tickets. Much as with the marketing platform, I am responsible for vetting pitch presentations, aligning business owner desires to generate user stories and shepherd the development process through to user acceptance and deployment.
+* Commerce & Marketing Platform Engineering.  I manage a team of engineers, product managers and project manager tasked with building and maintaining the codebases on which all Sony and many non-Sony recording artist commerce and marketing sites are built. My responsibilities include
+    * participating in pre-pitch meetings to be sure what we are presenting to potential clients is possible, sensible and cost effective
+    * working with product management to document client desires and turn those into actionable user stories for the engineering team
+    * helping the project manager determine priority
+    * facilitating estimation by the team
+    * removing any impediments to the smooth flow of the development process
+    * spend a lot of time working with other groups in the company to understand and respond to their changing needs
 
 * Ariama Store. I managed the software development for Ariama until it was shutdown in early 2013. At its peak, the team on Ariama consisted of four engineers working remotely. I functioned not only as the manager for the development but also often as a software engineer and devops engineer.
 
-* Agility and Lean Evangelism. As a long-time for agilist, I work closely with our product and project management team to make sure we are continue to practice the agile processes we have in place. Further, I am always looking for places where we can improve by applying new processes.
+* Agility and Lean Evangelism.  I have been an advocate of agile methods and processes since 2005 and was acquainted with XP as early as 2000. At Generator I encourage product and project managers and developers to continue refining our agile practices. We are far from a perfect example, but we strive to improve all the time. And I'm always looking for places to introduce agility and lean practices throughout the organization, not just within my own group.
 
 ### Independent Consultant * February 2009 to October 2010
 **Development and Project Management Consulting** * Chicago, IL  
@@ -87,7 +98,3 @@ The Music Now division of AOL was a subscription-centric music service providing
 Loyola University * Chicago, IL * Graduate Studies, Philosophy  
 University of Northern Iowa * Cedar Falls, IA.  * BA, Philosophy
 
-## Grab Bag
-
-* I am a [Certified Scrum Master](http://www.scrumalliance.org/profiles/14331-troy-denkinger).  
-* I believe in diversity in tech, so I volunteer with [NYC Railsbridge](http://railsbridgenyc.org).
