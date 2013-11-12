@@ -1,4 +1,4 @@
-﻿# Troy Denkinger
+# Troy Denkinger
 525 Clinton Avenue, #8S  
 Brooklyn, NY 11238  
 phone: 773.218.9544  
@@ -20,7 +20,7 @@ github: [github.com/tdenkinger](https://github.com/tdenkinger)
 
 With the successful launch of the Ariama classical music store for Sony Music, I joined Sony as a permanent employee. My duties straddle both tactical and strategic concerns. I work directly with developers on systems design, and even write some code. I'm also responsible for more strategic issues such as maintenance of product roadmaps in accordance with company goals and identification of projects eligible for capitalization.
 
-* eCommerce & Marketing Platform Engineering.  I manage a team of engineers, product managers and project managers tasked with building and maintaining the codebases on which all Sony and many non-Sony recording artist commerce and marketing sites are built. My responsibilities include
+* eCommerce & Marketing Platform Engineering.  I manage a team of Rails and PHP engineers, product managers and project managers tasked with building and maintaining the codebases on which all Sony and many non-Sony recording artist commerce and marketing sites are built. My responsibilities include
     * participating in pre-pitch meetings to be sure what we are presenting to potential clients is possible, sensible and cost effective
     * working with product management to document client desires and turn those into actionable user stories for the engineering team
     * helping the project manager determine priority
@@ -28,7 +28,7 @@ With the successful launch of the Ariama classical music store for Sony Music, I
     * removing any impediments to the smooth flow of the development process
     * spend a lot of time working with other groups in the company to understand and respond to their changing needs
 
-* Ariama Store. I managed the software development for Ariama until it was shutdown in early 2013. At its peak, the team on Ariama consisted of four engineers working remotely. I functioned not only as the manager for the development but also often as a software engineer and devops engineer.
+* Ariama Store. I managed the software development for Ariama until it was shutdown in early 2013. At its peak, the team on Ariama consisted of four Rails engineers working remotely. I functioned not only as the manager for the development but also often as a software engineer and devops engineer.
 
 * Agility and Lean Evangelism.  I have been an advocate of agile methods and processes since 2005 and was acquainted with XP as early as 2000. At Generator I encourage product and project managers and developers to continue refining our agile practices. We are far from a perfect example, but we strive to improve all the time. And I'm always looking for places to introduce agility and lean practices throughout the organization, not just within my own group.
 
@@ -39,7 +39,7 @@ With the closure of TotalMusic, I began working on independent consulting projec
 
 * I managed the Ariama project for Sony Music Entertainment.  Ariama was an online classical music store selling high quality digital music files and presenting classical-centric metadata in a unique manner.
 
-* I designed and built the content processing system and other systems that support Ariama’s operations.  This includes metadata cleanup and normalization systems, media transcoding, data warehouse operations, and sales reporting.
+* I designed and built the content processing system and other systems that support Ariama’s operations.  This includes metadata cleanup and normalization systems, media transcoding, data warehouse operations, and sales reporting. These systems were Ruby-based.
 
 * As a content management system expert, I consulted with LimeWire LLC in their due diligence process considering the purchase of one of their competitors.
 
@@ -49,7 +49,7 @@ With the closure of TotalMusic, I began working on independent consulting projec
 
 TotalMusic was an API-based music platform providing music file delivery, user-generated content storage and sharing, and a music download store.
 
-* I managed a team of 14 engineers and technical staff building all facets of our platform.
+* I managed a team of 14 engineers (Rails, PHP, Java) and technical staff building all facets of our platform.
 
 * Additionally, I functioned as the Scrum Master, and our use of Scrum development methods was successful in delivering functioning software.
 
@@ -66,7 +66,7 @@ TotalMusic was an API-based music platform providing music file delivery, user-g
 
 IODA is a digital media company providing content distribution and accounting services to independent record labels.  They encode and deliver digital music and video to all major online music services, including iTunes, eMusic, and Rhapsody.
 
-* I managed a team of seven engineers responsible for all systems engineering tasks including content ingestion, media file transcoding, media file delivery, and royalty accounting.
+* I managed a team of seven Perl engineers responsible for all systems engineering tasks including content ingestion, media file transcoding, media file delivery, and royalty accounting.
 
 * I consulted on all design decisions regarding systems built by my team, and mentored junior engineers as they worked on the systems we built and maintained.
 
@@ -79,7 +79,9 @@ IODA is a digital media company providing content distribution and accounting se
 ### AOL Music Now (formerly FullAudio/MusicNow) * January 2000 to April 2007
 **Manager Of Music Service Development** * Chicago, IL  
 
-The Music Now division of AOL was a subscription-centric music service providing over three million music tracks to our  500,000 paying subscribers.  Our service also had a purchase component, much like Apple iTunes, which allowed our two million shopper members to purchase music and videos.
+The Music Now division of AOL was a subscription-centric music service providing over three million music tracks to our 500,000 paying subscribers.  Our service also had a purchase component, much like Apple iTunes, which allowed our two million shopper members to purchase music and videos.
+
+* I managed a team of 7 engineers using Java-based technologies.
 
 * I increased the speed with which new software was developed and released to production by introducing agile methodologies to the service development team.  Prior to introducing agility, development cycles were running as long as 12 weeks or more.  Once we began using the agile techniques I introduced, the development cycles were reduced to three weeks.  This allowed quicker release of high priority features and fixes.
 
@@ -89,7 +91,7 @@ The Music Now division of AOL was a subscription-centric music service providing
 
 * I enabled our content team to increase the ingestion speed of new content into our music service by creating a content processing system .  At our peak in January, 2007, we were able to make over 70,000 new songs per week available to our members using this system.
 
-* We were contractually obligated to pay royalties for all music and videos sold.  I designed and built a system according to these contract terms, decreasing our risk of making incorrect or late royalty payments.
+* We were contractually obligated to pay royalties for all music and videos sold.  I designed and built a system in Perl according to these contract terms, decreasing our risk of making incorrect or late royalty payments.
 
 * I designed all data structures for all database-centric projects I worked on.  I understand relational database concepts and am familiar with standard DDL used to build and manage relational databases.
 
