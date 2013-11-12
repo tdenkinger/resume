@@ -20,7 +20,7 @@ github: [github.com/tdenkinger](https://github.com/tdenkinger)
 
 With the successful launch of the Ariama classical music store for Sony Music, I joined Sony as a permanent employee. My duties straddle both tactical and strategic concerns. I work directly with developers on systems design, and even write some code. I'm also responsible for more strategic issues such as maintenance of product roadmaps in accordance with company goals and identification of projects eligible for capitalization.
 
-* Commerce & Marketing Platform Engineering.  I manage a team of engineers, product managers and project manager tasked with building and maintaining the codebases on which all Sony and many non-Sony recording artist commerce and marketing sites are built. My responsibilities include
+* eCommerce & Marketing Platform Engineering.  I manage a team of engineers, product managers and project manager tasked with building and maintaining the codebases on which all Sony and many non-Sony recording artist commerce and marketing sites are built. My responsibilities include
     * participating in pre-pitch meetings to be sure what we are presenting to potential clients is possible, sensible and cost effective
     * working with product management to document client desires and turn those into actionable user stories for the engineering team
     * helping the project manager determine priority
