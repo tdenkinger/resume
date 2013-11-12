@@ -15,7 +15,7 @@ github: [github.com/tdenkinger](https://github.com/tdenkinger)
 
 ## Professional Experience
 
-### _relentless_GENERATOR (SonyDADC New Media Services) * October 2010 to Present
+### *relentless*GENERATOR (SonyDADC New Media Services) * October 2010 to Present
 **Senior Director of Software Development**  * Chicago, IL & New York, NY  
 
 With the successful launch of the Ariama classical music store for Sony Music, I joined Sony as a permanent employee. My duties straddle both tactical and strategic concerns. I work directly with developers on systems design, and even write some code. I'm also responsible for more strategic issues such as maintenance of product roadmaps in accordance with company goals and identification of projects eligible for capitalization.
