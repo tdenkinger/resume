@@ -9,27 +9,19 @@ github: [github.com/tdenkinger](https://github.com/tdenkinger)
 ## About Me 
 
 * I believe in diversity in tech, so I volunteer with [Railsbridge NYC](http://railsbridgenyc.org).  
-* Some books that have influenced me: _Lean From The Trenches_ by Henrik Kniberg, _Practical Object-Oriented Design In Ruby_ by Sandi Metz, and _The Hitchhiker's Guide To The Galaxy_ by Douglas Adams &mdash; naturally.  
-* I'm a [Certified Scrum Master](http://www.scrumalliance.org/profiles/14331-troy-denkinger).  
-* While I did study philosophy, please don't talk Plato with me as I'm sure I have forgotten most of it.  
+* Some books that have influenced me: _Lean From The Trenches_ by Henrik Kniberg, _Practical Object-Oriented Design In Ruby_ by Sandi Metz, _Hug Your Customers_ by Jack Mitchell, and _The Hitchhiker's Guide To The Galaxy_ by Douglas Adams &mdash; naturally.  
+* I'm a [Certified Scrum Master](http://www.scrumalliance.org/profiles/14331-troy-denkinger).    
 
 ## Professional Experience
 
 ### *relentless*GENERATOR (SonyDADC New Media Services) * October 2010 to Present
-**Senior Director of Software Development**  * New York, NY  
+**Vice President of Engineering**  * New York, NY  
 
-With the successful launch of the Ariama classical music store for Sony Music, I joined Sony as a permanent employee. My duties straddle both tactical and strategic concerns. I work directly with developers on systems design, and even write some code. I'm also responsible for more strategic issues such as maintenance of product roadmaps in accordance with company goals and identification of projects eligible for capitalization.
+With the successful launch of the Ariama classical music store for Sony Music, I joined Sony as a permanent employee. My duties straddle both tactical and strategic concerns. I work directly with developers on systems design, and even write some code. I'm also responsible for more strategic issues such as maintenance of product roadmaps in accordance with company goals and identification of projects eligible for capitalization. I also have full budgetary responsibility for all engineering projects and teams.
 
-* eCommerce & Marketing Platform Engineering.  I manage a team of Rails and PHP engineers, product managers and project managers tasked with building and maintaining the codebases on which all Sony and many non-Sony recording artist commerce and marketing sites are built. My responsibilities include
-    * participating in pre-pitch meetings to be sure what we are presenting to potential clients is possible, sensible and cost effective
-    * working with product management to document client desires and turn those into actionable user stories for the engineering team
-    * helping the project manager determine priority
-    * facilitating estimation by the team
-    * removing any impediments to the smooth flow of the development process
-    * spend a lot of time working with other groups in the company to understand and respond to their changing needs
+* Platform Engineering & Network Operations.  I manage a team of Rails engineers, Java engineers, and network operations staff tasked with building and maintaining the codebases on which all Sony and many non-Sony recording artist ecommerce stores are built. My responsibilities include	
 
-* Ariama Store. I managed the software development for Ariama until it was shutdown in early 2013. At its peak, the team on Ariama consisted of four Rails engineers working remotely. I functioned not only as the manager for the development but also often as a software engineer and devops engineer.
-
+    * The overall functioning and maintenance of the software and infrastructure to operate the business on a global basis.    * Working with Product Management and other members of the management team to ensure that platform development and network operations activities are aligned with the short term and long term goals of the company technology roadmap.	* Consulting with Project Management and Business Development in vetting the technical feasibility of new projects.	* Ensuring that all software is developed to the highest standards of quality and fully documented.	* Working with the CEO to ensure that personal goals and objectives are aligned with company goals and objectives.	* Providing direct reports and all members of the team with goals and objectives that are aligned with the company's goals and objectives.	* Recruiting talent that enables the company to execute quickly and cost effectively.	* Coordinating with the CEO and CFO to determine the budget required to meet the goals and objectives of the company and to manage the agreed-upon budget.	* Continually working with his team to ensure the company is driving innovation by employing new and relevant technology, processes, and vendors.
 * Agility and Lean Evangelism.  I have been an advocate of agile methods and processes since 2005 and was acquainted with XP as early as 2000. At Generator I encourage product and project managers and developers to continue refining our agile practices. We are far from a perfect example, but we strive to improve all the time. And I'm always looking for places to introduce agility and lean practices throughout the organization, not just within my own group.
 
 ### Independent Consultant * February 2009 to October 2010
