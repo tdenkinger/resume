@@ -17,7 +17,7 @@ github: [github.com/tdenkinger](https://github.com/tdenkinger)
 ### *relentless*GENERATOR (SonyDADC New Media Services) * October 2010 to Present
 **Vice President of Engineering**  * New York, NY  
 
-With the successful launch of the Ariama classical music store for Sony Music, I joined Sony as a permanent employee. My duties straddle both tactical and strategic concerns. I work directly with developers on systems design, and even write some code. I'm also responsible for more strategic issues such as maintenance of product roadmaps in accordance with company goals and identification of projects eligible for capitalization. I also have full budgetary responsibility for all engineering projects and teams.
+My duties straddle both tactical and strategic concerns. I work directly with developers on systems design, and even write some code. I'm also responsible for more strategic issues such as maintenance of product roadmaps in accordance with company goals and identification of projects eligible for capitalization. I also have full budgetary responsibility for all engineering projects and teams.
 
 * Platform Engineering & Network Operations.  I manage a team of Rails engineers, Java engineers, and network operations staff tasked with building and maintaining the codebases on which all Sony and many non-Sony recording artist ecommerce stores are built. My responsibilities include	
 

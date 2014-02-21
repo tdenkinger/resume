@@ -9,17 +9,17 @@ github: [github.com/tdenkinger](https://github.com/tdenkinger)
 ## About Me 
 
 * I believe in diversity in tech, so I volunteer with [Railsbridge NYC](http://railsbridgenyc.org).  
-* Some books that have influenced me: _Lean From The Trenches_ by Henrik Kniberg, _Practical Object-Oriented Design In Ruby_ by Sandi Metz, and _The Hitchhiker's Guide To The Galaxy_ by Douglas Adams &mdash; naturally.  
+* Some books that have influenced me: _Lean From The Trenches_ by Henrik Kniberg, _Practical Object-Oriented Design In Ruby_ by Sandi Metz, _Hug Your Customers_ by Jack Mitchell, and _The Hitchhiker's Guide To The Galaxy_ by Douglas Adams &mdash; naturally.  
 * I'm a [Certified Scrum Master](http://www.scrumalliance.org/profiles/14331-troy-denkinger).  
 * While I did study philosophy, please don't talk Plato with me as I'm sure I have forgotten most of it.  
 
 ## Professional Experience
 
 ### relentlessGENERATOR (SonyDADC New Media Services) * October 2010 to Present
-**Senior Director of Software Development**  * Chicago, IL & New York, NY  
+**Vice President Of Engineering**  * New York, NY  
 
-* Manage the commerce & marketing platform engineering teams, 10 engineers in total.  
-* Continued support of the Ariama store. 
+* Manage all platform software engineering (Ruby/Rails and Java).  
+* Full responsibility for all infrastruture and technical operations (Rackspace/AWS). 
 * Active agile and lean evangelist.  
 
 ### Independent Consultant * February 2009 to October 2010
