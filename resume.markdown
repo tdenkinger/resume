@@ -10,19 +10,32 @@ github: [github.com/tdenkinger](https://github.com/tdenkinger)
 
 * I believe in diversity in tech, so I volunteer with [Railsbridge NYC](http://railsbridgenyc.org).  
 * Some books that have influenced me: _Lean From The Trenches_ by Henrik Kniberg, _Practical Object-Oriented Design In Ruby_ by Sandi Metz, _Hug Your Customers_ by Jack Mitchell, and _The Hitchhiker's Guide To The Galaxy_ by Douglas Adams &mdash; naturally.  
-* I'm a [Certified Scrum Master](http://www.scrumalliance.org/profiles/14331-troy-denkinger).    
-
 ## Professional Experience
 
-### *relentless*GENERATOR (SonyDADC New Media Services) * October 2010 to Present
-**Vice President of Engineering**  * New York, NY  
+### TuneCore, Inc. * June 2014 to Present
+**Vice President of Engineering** * Brooklyn, NY
 
-My duties straddle both tactical and strategic concerns. I work directly with developers on systems design, and even write some code. I'm also responsible for more strategic issues such as maintenance of product roadmaps in accordance with company goals and identification of projects eligible for capitalization. I also have full budgetary responsibility for all engineering projects and teams.
 
-* Platform Engineering & Network Operations.  I manage a team of Rails engineers, Java engineers, and network operations staff tasked with building and maintaining the codebases on which all Sony and many non-Sony recording artist ecommerce stores are built. My responsibilities include	
 
-    * The overall functioning and maintenance of the software and infrastructure to operate the business on a global basis.    * Working with Product Management and other members of the management team to ensure that platform development and network operations activities are aligned with the short term and long term goals of the company technology roadmap.	* Consulting with Project Management and Business Development in vetting the technical feasibility of new projects.	* Ensuring that all software is developed to the highest standards of quality and fully documented.	* Working with the CEO to ensure that personal goals and objectives are aligned with company goals and objectives.	* Providing direct reports and all members of the team with goals and objectives that are aligned with the company's goals and objectives.	* Recruiting talent that enables the company to execute quickly and cost effectively.	* Coordinating with the CEO and CFO to determine the budget required to meet the goals and objectives of the company and to manage the agreed-upon budget.	* Continually working with his team to ensure the company is driving innovation by employing new and relevant technology, processes, and vendors.
-* Agility and Lean Evangelism.  I have been an advocate of agile methods and processes since 2005 and was acquainted with XP as early as 2000. At Generator I encourage product and project managers and developers to continue refining our agile practices. We are far from a perfect example, but we strive to improve all the time. And I'm always looking for places to introduce agility and lean practices throughout the organization, not just within my own group.
+### *relentless*GENERATOR (SonyDADC New Media Services) * October 2010 to May 2014
+**Vice President of Engineering & Network Operations**  * New York, NY  
+
+My duties straddled both tactical and strategic concerns. I worked directly with developers on systems design, and even wrote some code. I was also responsible for more strategic issues such as maintenance of product roadmaps in accordance with company goals and identification of projects eligible for capitalization. I also had full budgetary responsibility for all engineering projects and teams.
+
+* Platform Engineering & Network Operations.  I managed a team of Rails engineers, Java engineers, and network operations staff tasked with building and maintaining the codebases on which all Sony and many non-Sony recording artist ecommerce stores are built. My responsibilities included	
+
+    * The overall functioning and maintenance of the software and infrastructure to operate the business on a global basis.
+    * Working with Product Management and other members of the management team to ensure that platform development and network operations activities were aligned with the short term and long term goals of the company technology roadmap.
+	* Consulting with Project Management and Business Development in vetting the technical feasibility of new projects.
+	* Ensuring that all software was developed to the highest standards of quality and fully documented.
+	* Working with the CEO to ensure that personal goals and objectives were aligned with company goals and objectives.
+	* Providing direct reports and all members of the team with goals and objectives that were aligned with the company's goals and objectives.
+	* Recruiting talent that enabled the company to execute quickly and cost effectively.
+	* Coordinating with the CEO and CFO to determine the budget required to meet the goals and objectives of the company and to manage the agreed-upon budget.
+	* Continually working with the team to ensure the company was driving innovation by employing new and relevant technology, processes, and vendors.
+
+
+* Agility and Lean Evangelism.  I have been an advocate of agile methods and processes since 2005 and was acquainted with eXtreme Programming as early as 2000. At Generator I encouraged product and project managers and developers to continue refining our agile practices. We were far from a perfect example, but we strived to improve all the time. And I was always looking for places to introduce agility and lean practices throughout the organization, not just within my own group.
 
 ### Independent Consultant * February 2009 to October 2010
 **Development and Project Management Consulting** * Chicago, IL  
