@@ -1,29 +1,35 @@
 # Troy Denkinger
-525 Clinton Avenue, #8S  
-Brooklyn, NY 11238  
-phone: 773.218.9544  
-email: troy@denkinger.us  
-blog: [denkinger.us](http://denkinger.us)  
-github: [github.com/tdenkinger](https://github.com/tdenkinger)  
+525 Clinton Avenue, #8S || Brooklyn, NY 11238
+phone: 773.218.9544 || email: troy@denkinger.us
+[denkinger.us](http://denkinger.us) || [github.com/tdenkinger](https://github.com/tdenkinger)  
 
 ## About Me 
 
-* I believe in diversity in tech, so I volunteer with [Railsbridge NYC](http://railsbridgenyc.org).  
-* Some books that have influenced me: _Lean From The Trenches_ by Henrik Kniberg, _Practical Object-Oriented Design In Ruby_ by Sandi Metz, _Hug Your Customers_ by Jack Mitchell, and _The Hitchhiker's Guide To The Galaxy_ by Douglas Adams &mdash; naturally.  
-* I'm a [Certified Scrum Master](http://www.scrumalliance.org/profiles/14331-troy-denkinger).  
-* While I did study philosophy, please don't talk Plato with me as I'm sure I have forgotten most of it.  
+* I believe in diversity in tech, so I volunteer with [Railsbridge NYC](http://railsbridgenyc.org) and [CodeNow](http://codenow.org).  
+* Some books that have influenced me: _Lean From The Trenches_ by Henrik Kniberg, _Practical Object-Oriented Design In Ruby_ by Sandi Metz, and _Hug Your Customers_ by Jack Mitchell.
+* My dog is Maddie (blind), and my cat is Olive (fat).
 
 ## Professional Experience
 
-### relentlessGENERATOR (SonyDADC New Media Services) * October 2010 to Present
-**Vice President Of Engineering**  * New York, NY  
+### TuneCore, Inc. * June 2014 to Present
+**Vice President of Engineering** * Brooklyn, NY
 
-* Manage all platform software engineering (Ruby/Rails and Java).  
-* Full responsibility for all infrastruture and technical operations (Rackspace/AWS). 
-* Active agile and lean evangelist.  
+* Care and feeding for a team of eight technical staff members.
+* Manage all software stack development (Ruby, Rails, and Python).
+* Write code as part of the engineering team.
+* Improve and maintain all infrastructure and technical operations (Rackspace/AWS).
+* Act as agile coach and advocate.
+* Help product management understand what is possible and what is hard.
+
+### relentlessGENERATOR (Sony New Media Services) * October 2010 to May 2014
+**Vice President of Engineering & Network Operations**  * New York, NY  
+
+* Manage all platform software engineering (Ruby, Rails, and Java).
+* Full responsibility for all infrastruture and technical operations (Rackspace/AWS).
+* Active agile and lean evangelist.
 
 ### Independent Consultant * February 2009 to October 2010
-**Development and Project Management Consulting** * Chicago, IL  
+**Development and Project Management Consultant** * Chicago, IL  
 
 * Managed the Ariama project for Sony Music Entertainment.  
 * Consulted with LimeWire LLC in their due diligence process considering the purchase of one of their competitors.
