@@ -1,24 +1,33 @@
 # Troy Denkinger
-525 Clinton Avenue, #8S  
-Brooklyn, NY 11238  
-phone: 773.218.9544  
-email: troy@denkinger.us  
-blog: [denkinger.us](http://denkinger.us)  
-github: [github.com/tdenkinger](https://github.com/tdenkinger)  
+525 Clinton Avenue, #8S / Brooklyn, NY 11238  
+**phone:** 773.218.9544 / **email:** troy@denkinger.us  
+**blog:** [denkinger.us](http://denkinger.us) / **github:** [github.com/tdenkinger](https://github.com/tdenkinger)  
 
-## About Me 
-
-* I believe in diversity in tech, so I volunteer with [Railsbridge NYC](http://railsbridgenyc.org).  
-* Some books that have influenced me: _Lean From The Trenches_ by Henrik Kniberg, _Practical Object-Oriented Design In Ruby_ by Sandi Metz, _Hug Your Customers_ by Jack Mitchell, and _The Hitchhiker's Guide To The Galaxy_ by Douglas Adams &mdash; naturally.  
 ## Professional Experience
 
-### TuneCore, Inc. * June 2014 to Present
-**Vice President of Engineering** * Brooklyn, NY
+### TuneCore, Inc.
+**Vice President of Engineering** / Brooklyn / June 2014 - Present
 
+At TuneCore I am responsible for all technical implementations, including platform architecural decisions. I work closely with technical leads and businsess owners to make sure we are delivering content of value to our customers.
 
+* I manage the day-to-day development of our primary software platforms:
 
-### *relentless*GENERATOR (SonyDADC New Media Services) * October 2010 to May 2014
-**Vice President of Engineering & Network Operations**  * New York, NY  
+	* The customer content management system is the front-facing platform allowing customers to create their album and single releases, associate metadata with releases, and upload media assets to be distributed with those releases.
+	
+	* Our e-commerce system allows customers to pay for the releases they want to distribute through us. This platform integrates with Braintree for credit card payments and stored bank accounts as well as with Paypal directly.
+	
+	* We have built a content distribution cloud that handles several hundred releases daily sent to over 30 digital music outlets. This system is built on Amazon Web Services, using the waiting workload to increase and decrease the number of live servers to ensure even loads and smooth deliveries.
+	
+	* Completing the suite of platforms is our sales ingestion processing system. This is a Rails-based finance system taking in the various types of sales reports from the digital music services we distribute to. Those reports are broken down, matching individual streams and sales against existing distributed content, and correctly assigning payment amounts to individual customers' accounts.
+	
+* I work closely with the product management team to make sure all user stories are vetted, ready for development, and correctly prioritized.
+
+* My position requires that I be the primary representative of our team's technical decisions to the other members of the management team and that I communicate high-level management decisions back to the team. I sit on the executive management compass team that lays out and justifies overall company direction.
+
+* As the senior technical member of the team, I have responsibility for the overall adoption of our agile processes and practices. Additionally, I regularly present new agile practices to the team.
+
+### SonyDADC New Media Services (*relentless*GENERATOR)
+**Vice President of Engineering & Network Operations**  / New York City / October 2010 - May 2014  
 
 My duties straddled both tactical and strategic concerns. I worked directly with developers on systems design, and even wrote some code. I was also responsible for more strategic issues such as maintenance of product roadmaps in accordance with company goals and identification of projects eligible for capitalization. I also had full budgetary responsibility for all engineering projects and teams.
 
@@ -37,8 +46,8 @@ My duties straddled both tactical and strategic concerns. I worked directly with
 
 * Agility and Lean Evangelism.  I have been an advocate of agile methods and processes since 2005 and was acquainted with eXtreme Programming as early as 2000. At Generator I encouraged product and project managers and developers to continue refining our agile practices. We were far from a perfect example, but we strived to improve all the time. And I was always looking for places to introduce agility and lean practices throughout the organization, not just within my own group.
 
-### Independent Consultant * February 2009 to October 2010
-**Development and Project Management Consulting** * Chicago, IL  
+### Independent Consultant
+**Development and Project Management Consulting** / Chicago / February 2009 - October 2010  
 
 With the closure of TotalMusic, I began working on independent consulting projects primarily associated with the digital music space.  My duties on these projects have encompassed system architecture, software development, project management, and business analysis.
 
@@ -48,57 +57,26 @@ With the closure of TotalMusic, I began working on independent consulting projec
 
 * As a content management system expert, I consulted with LimeWire LLC in their due diligence process considering the purchase of one of their competitors.
 
-
-### TotalMusic LLC * February 2008 to February 2009
-**Director of Software Engineering** * Herndon, VA
+### TotalMusic, LLC
+**Director of Software Engineering** / Herndon / February 2008 - February 2009
 
 TotalMusic was an API-based music platform providing music file delivery, user-generated content storage and sharing, and a music download store.
 
-* I managed a team of 14 engineers (Rails, PHP, Java) and technical staff building all facets of our platform.
+I managed a team of 14 engineers (Rails, PHP, Java) and technical staff building all facets of our platform. Additionally, I functioned as the Scrum Master, and our use of Scrum development methods was successful in delivering functioning software.
 
-* Additionally, I functioned as the Scrum Master, and our use of Scrum development methods was successful in delivering functioning software.
+### Independent Online Digital Alliance (IODA)
+**Software Engineering Manager** / San Francisco / May 2007 - February 2008 
 
-* As part of the development team, I worked with other engineers to design the internal systems and the APIs to access those systems.
+IODA was a digital media company providing content distribution and accounting services to independent record labels.  They encode and deliver digital music and video to all major online music services, including iTunes, eMusic, and Rhapsody.
 
-* Working with the QA team, I prioritized and filtered bugs for the development staff.
+I managed a team of seven Perl engineers responsible for all systems engineering tasks including content ingestion, media file transcoding, media file delivery, and royalty accounting.
 
-* Our operations team worked closely with the development team, and I helped operations personnel make sure the deployed hardware and software systems were adequate to meet the needs of the software we were building.
-
-* Managing the team included doing annual reviews, negotiating salaries, holding weekly one-on-one meetings, mentoring junior engineers, and participating in decisions on staff reductions.
-
-### Independent Online Digital Alliance (IODA) * May 2007 to February 2008
-**Software Engineering Manager** * San Francisco, CA  
-
-IODA is a digital media company providing content distribution and accounting services to independent record labels.  They encode and deliver digital music and video to all major online music services, including iTunes, eMusic, and Rhapsody.
-
-* I managed a team of seven Perl engineers responsible for all systems engineering tasks including content ingestion, media file transcoding, media file delivery, and royalty accounting.
-
-* I consulted on all design decisions regarding systems built by my team, and mentored junior engineers as they worked on the systems we built and maintained.
-
-* I increased inter-department communication by helping software engineers to trust other groups to handle day-to-day operational duties.  When I arrived at IODA, the engineering staff was primarily responsible for running many of the systems they were building.  In order to improve development efficiency, I worked with the developers to transition these duties to operational groups within the company.
-
-* Successfully delivered on several Scrum sprints.  IODA uses Scrum as a development process, and as a Certified Scrum Master, I was able to help the team focus on stories in the current sprint (development cycle) and avoid the outside distractions that cause development delays and undue team stress.
-
-* Laid out design goals promising increased operational efficiency, allowing the company to increase content throughput without adding staff.  Many of the deployed systems are labor intensive or overwhelmed by the amount of content flowing through them.  I worked with the engineering staff to identify areas where these systems could be refactored and improved.
-
-### AOL Music Now (formerly FullAudio/MusicNow) * January 2000 to April 2007
-**Manager Of Music Service Development** * Chicago, IL  
+### FullAudio/MusicNow/AOL Music Now
+**Manager Of Music Service Development** / Chicago / January 2000 - April 2007  
 
 The Music Now division of AOL was a subscription-centric music service providing over three million music tracks to our 500,000 paying subscribers.  Our service also had a purchase component, much like Apple iTunes, which allowed our two million shopper members to purchase music and videos.
 
-* I managed a team of 7 engineers using Java-based technologies.
-
-* I increased the speed with which new software was developed and released to production by introducing agile methodologies to the service development team.  Prior to introducing agility, development cycles were running as long as 12 weeks or more.  Once we began using the agile techniques I introduced, the development cycles were reduced to three weeks.  This allowed quicker release of high priority features and fixes.
-
-* Introducing this agile development process saved on development staff attrition.  Prior to introducing agility, the developers were frustrated by the project management process then in place.  I learned through informal discussions that the most senior and knowledgeable engineers were beginning to explore other opportunities.  The promise of a new development methodology kept the staff together and improved overall morale.
-
-* I designed and built a system that decreased storage costs by 50%.  We were contractually required to distribute our music files with anti-piracy technology attached to each file.  This required us to have multiple copies of each file in our storage system, one copy with anti-piracy and another without.  The system I created attached the anti-piracy wrapper on request whenever a user purchased a song or video.  By handling distribution this way, we only needed a single copy of the file and were able to reclaim half of our SAN storage.
-
-* I enabled our content team to increase the ingestion speed of new content into our music service by creating a content processing system .  At our peak in January, 2007, we were able to make over 70,000 new songs per week available to our members using this system.
-
-* We were contractually obligated to pay royalties for all music and videos sold.  I designed and built a system in Perl according to these contract terms, decreasing our risk of making incorrect or late royalty payments.
-
-* I designed all data structures for all database-centric projects I worked on.  I understand relational database concepts and am familiar with standard DDL used to build and manage relational databases.
+I managed a team of 7 engineers using Java-based technologies.
 
 ## Educational Background
 
