@@ -3,6 +3,8 @@
 **phone:** 773.218.9544 / **email:** troy@denkinger.us  
 **blog:** [denkinger.us](http://denkinger.us) / **github:** [github.com/tdenkinger](https://github.com/tdenkinger)  
 
+*I am a technology leader who has spent 17 years building teams I trust to get the job done. My role is to bring together the best team, make sure they have the tools they need, and to clear the way. I try to instill and live the values of the [Agile Manifesto](agilemanifesto) whenever possible.*
+
 ## Professional Experience
 
 ### TuneCore, Inc.
@@ -12,14 +14,14 @@ At TuneCore I am responsible for all technical implementations, including platfo
 
 * I manage the day-to-day development of our primary software platforms:
 
-	* The customer content management system is the front-facing platform allowing customers to create their album and single releases, associate metadata with releases, and upload media assets to be distributed with those releases.
-	
-	* Our e-commerce system allows customers to pay for the releases they want to distribute through us. This platform integrates with Braintree for credit card payments and stored bank accounts as well as with Paypal directly.
-	
-	* We have built a content distribution cloud that handles several hundred releases daily sent to over 30 digital music outlets. This system is built on Amazon Web Services, using the waiting workload to increase and decrease the number of live servers to ensure even loads and smooth deliveries.
-	
-	* Completing the suite of platforms is our sales ingestion processing system. This is a Rails-based finance system taking in the various types of sales reports from the digital music services we distribute to. Those reports are broken down, matching individual streams and sales against existing distributed content, and correctly assigning payment amounts to individual customers' accounts.
-	
+  * The customer content management system is the front-facing platform allowing customers to create their album and single releases, associate metadata with releases, and upload media assets to be distributed with those releases.
+
+  * Our e-commerce system allows customers to pay for the releases they want to distribute through us. This platform integrates with Braintree for credit card payments and stored bank accounts as well as with Paypal directly.
+
+  * We have built a content distribution cloud that handles several hundred releases daily sent to over 30 digital music outlets. This system is built on Amazon Web Services, using the waiting workload to increase and decrease the number of live servers to ensure even loads and smooth deliveries.
+
+  * Completing the suite of platforms is our sales ingestion processing system. This is a Rails-based finance system taking in the various types of sales reports from the digital music services we distribute to. Those reports are broken down, matching individual streams and sales against existing distributed content, and correctly assigning payment amounts to individual customers' accounts.
+
 * I work closely with the product management team to make sure all user stories are vetted, ready for development, and correctly prioritized.
 
 * My position requires that I be the primary representative of our team's technical decisions to the other members of the management team and that I communicate high-level management decisions back to the team. I sit on the executive management compass team that lays out and justifies overall company direction.
@@ -35,13 +37,13 @@ My duties straddled both tactical and strategic concerns. I worked directly with
 
     * The overall functioning and maintenance of the software and infrastructure to operate the business on a global basis.
     * Working with Product Management and other members of the management team to ensure that platform development and network operations activities were aligned with the short term and long term goals of the company technology roadmap.
-	* Consulting with Project Management and Business Development in vetting the technical feasibility of new projects.
-	* Ensuring that all software was developed to the highest standards of quality and fully documented.
-	* Working with the CEO to ensure that personal goals and objectives were aligned with company goals and objectives.
-	* Providing direct reports and all members of the team with goals and objectives that were aligned with the company's goals and objectives.
-	* Recruiting talent that enabled the company to execute quickly and cost effectively.
-	* Coordinating with the CEO and CFO to determine the budget required to meet the goals and objectives of the company and to manage the agreed-upon budget.
-	* Continually working with the team to ensure the company was driving innovation by employing new and relevant technology, processes, and vendors.
+    * Consulting with Project Management and Business Development in vetting the technical feasibility of new projects.
+    * Ensuring that all software was developed to the highest standards of quality and fully documented.
+    * Working with the CEO to ensure that personal goals and objectives were aligned with company goals and objectives.
+    * Providing direct reports and all members of the team with goals and objectives that were aligned with the company's goals and objectives.
+    * Recruiting talent that enabled the company to execute quickly and cost effectively.
+    * Coordinating with the CEO and CFO to determine the budget required to meet the goals and objectives of the company and to manage the agreed-upon budget.
+    * Continually working with the team to ensure the company was driving innovation by employing new and relevant technology, processes, and vendors.
 
 
 * Agility and Lean Evangelism.  I have been an advocate of agile methods and processes since 2005 and was acquainted with eXtreme Programming as early as 2000. At Generator I encouraged product and project managers and developers to continue refining our agile practices. We were far from a perfect example, but we strived to improve all the time. And I was always looking for places to introduce agility and lean practices throughout the organization, not just within my own group.
