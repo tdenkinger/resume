@@ -3,7 +3,7 @@
 **phone:** 773.218.9544 / **email:** troy@denkinger.us  
 **blog:** [denkinger.us](http://denkinger.us) / **github:** [github.com/tdenkinger](https://github.com/tdenkinger)  
 
-*I am a technology leader who has spent 17 years building teams I trust to get the job done. My role is to bring together the best team, make sure they have the tools they need, and to clear the way. I try to instill and live the values of the [Agile Manifesto](agilemanifesto) whenever possible.*
+*I am a technology leader who has spent years building teams I trust, and who trust each other, to get the job done. I am looking for a company and team who understand that software development is a human endeavor.*
 
 ## Professional Experience
 
@@ -82,6 +82,6 @@ I managed a team of 7 engineers using Java-based technologies.
 
 ## Educational Background
 
-Loyola University * Chicago, IL * Graduate Studies, Philosophy  
-University of Northern Iowa * Cedar Falls, IA.  * BA, Philosophy
+Loyola University / Chicago, IL / Philosophy, Graduate Studies  
+University of Northern Iowa / Cedar Falls, IA.  / Philosophy, BA
 
