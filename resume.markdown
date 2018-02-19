@@ -3,7 +3,7 @@
 **phone:** 773.218.9544 / **email:** troy@denkinger.us  
 **blog:** [denkinger.us](http://denkinger.us) / **github:** [github.com/tdenkinger](https://github.com/tdenkinger)  
 
-*I am a technology leader who has spent years building teams I trust, and who trust each other, to get the job done. I am looking for a company and team who understand that software development is a human endeavor.*
+*I am a technology leader who has spent years building teams I trust, and who trust each other, to get the job done. I'm looking for a company and team who understand that software development is a human endeavor.*
 
 ## Professional Experience
 
