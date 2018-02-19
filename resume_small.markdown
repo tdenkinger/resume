@@ -50,7 +50,11 @@
 
 * Managed a team of seven engineers.
 * Designed and built a system that decreased storage costs by 50%. 
-* Created content ingestion and royalty allocation systems. 
+* Created content ingestion and royalty allocation systems.
+
+## Patents
+
+U.S. Patent Nos. 9886566, 9397991 & 8606684  
 
 ## Educational Background
 
