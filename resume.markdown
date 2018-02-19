@@ -80,6 +80,14 @@ The Music Now division of AOL was a subscription-centric music service providing
 
 I managed a team of 7 engineers using Java-based technologies.
 
+## Patents
+
+U.S. Patent No. 9886566, issued February 6, 2018: Digital content distribution and subscription system 
+
+U.S. Patent No. 9397991, issued July 19, 2016: Digital content distribution and subscription system 
+
+U.S. Patent No. 8606684, issued December 12, 2013: Digital content distribution and subscription system 
+ 
 ## Educational Background
 
 Loyola University / Chicago, IL / Philosophy, Graduate Studies  
